@@ -1,0 +1,14 @@
+2020-06-24 22:38:08,254 - rootLogger - INFO - All excel files initialized successfully
+2020-06-24 22:38:08,262 - rootLogger - INFO - Config.properties file loaded successfully
+2020-06-24 22:38:42,433 - rootLogger - INFO - Chrome driver is loaded
+2020-06-24 22:38:42,446 - rootLogger - INFO - Chrome driver is loaded
+2020-06-24 22:39:15,632 - rootLogger - INFO - Resule.StartEndTime1593018488850End Time1593018552144
+2020-06-24 22:39:15,634 - rootLogger - INFO - Took Method:0ms
+2020-06-24 22:39:15,634 - rootLogger - INFO - Total time after method63
+2020-06-24 22:39:15,667 - rootLogger - INFO - Linkage_Test1is Fail
+2020-06-24 22:39:19,271 - rootLogger - INFO - Resule.StartEndTime1593018488968End Time1593018559265
+2020-06-24 22:39:19,271 - rootLogger - INFO - Took Method:0ms
+2020-06-24 22:39:19,291 - rootLogger - INFO - Total time after method70
+2020-06-24 22:39:19,292 - rootLogger - INFO - Linkage_Test2is Pass
+2020-06-24 22:39:21,964 - rootLogger - INFO - Linkage_Test2:Reporting test data lineLinkage_Test2asPass
+2020-06-24 22:39:23,467 - rootLogger - INFO - Linkage_Test1:Reporting test data lineLinkage_Test1asFail
